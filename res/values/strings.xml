@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Paper Browser</string>
+    <string name="action_bar_filter_semesters">semester filter</string>
+    <string name="action_bar_search">Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="logo_desc">Uni logo</string>
+    <string name="search_hint">Paper Code or Name</string>
+    <string name="title_activity_paper_info">PaperInfoActivity</string>
+    <string name="acdemic_point">15 points</string>
+    <string name="paper_desc">#########################################################################################################</string>
+    <string name="prerequisite_paper">Prerequisite Papers</string>
+	<string name="prerequisite_paper_detail">######################################################</string>
+	<string name="assessment_ratio">Assessment Ratio</string>
+	<string name="assessment_ratio_detail">######################################################</string>
+</resources>

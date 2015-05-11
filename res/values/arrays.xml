@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="subject_list">
+        <item>All Subjects</item>
+        <item>Computer Graphic Design</item>
+        <item>Computer Science</item>
+        <item>Mathmatics</item>
+        <item>Software Engineering</item>
+        <item>Statistics</item>
+    </string-array>
+    
+    <string-array name="level_list">
+        <item>All Levels</item>
+        <item>100 Level</item>
+        <item>200 Level</item>
+        <item>300 Level</item>
+        <item>400 Level</item>
+        <item>500 Level</item>
+    </string-array>
+    
+    <string-array name="semester_list">
+        <item>All Semesters</item>
+        <item>A Semester</item>
+        <item>B Semester</item>
+        <item>S Semester</item>
+    </string-array>
+
+</resources>
+
